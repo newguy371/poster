@@ -1,0 +1,4 @@
+Making a Repository
+Uploading to Repository
+Committing Documents
+Basic Functions
